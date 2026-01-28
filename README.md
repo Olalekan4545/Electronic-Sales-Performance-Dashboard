@@ -205,7 +205,7 @@ Implementation of these recommendations can Increase overall profitability, Impr
 
   
 ## 📂File Included
-powerbi Electronic_Sales_dashboard.png / [`Electronic_Dasboard.png`](Electronic_Dasboard.png) 
+powerbi Electronic_Sales_dashboard.png / [`Electronic_Dashboard.png`](Electronic_Dashboard.png) 
 
 
 ├──  Electronic_Sales_dataset.xlsx
