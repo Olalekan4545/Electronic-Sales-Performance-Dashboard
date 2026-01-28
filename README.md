@@ -240,7 +240,7 @@ powerbi Electronic_Sales_dashboard.png / [`Electronic_Dasboard.png`](Electronic_
 
 
 ## How to Use
-1. Download the .pbix file from the dashboard folder [`Supply-Chain.pbix`](Supply-Chain.pbix)
+1. Download the .pbix file from the dashboard folder [`Electronic_Sales_Dashboard.pbix`](Electronic_Sales_Dashboard.pbix)
 2. Open with Power BI Desktop [Power BI Desktop](https://powerbi.microsoft.com/).
 3.  Use slicers to explore insights across different dimensions
 
