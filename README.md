@@ -205,19 +205,19 @@ Implementation of these recommendations can Increase overall profitability, Impr
 
   
 ## 📂File Included
-powerbi--dashboard.png / [`Supply_Chain_Dashboard.png`](Supply_Chain_Dashboard.png) 
+powerbi Electronic_Sales_dashboard.png / [`Electronic_Dasboard.png`](Electronic_Dasboard.png) 
 
 
-├──  supply_chain_data.xlsx
+├──  Electronic_Sales_dataset.xlsx
 
-│        └── data/[`supply_chain_data.xlsx`](supply_chain_data.xlsx) 
+│        └── data/[`Electronic_Sales.xlsx`](Electronic_Sales.xlsx) 
 
 │ 
 
-├── supply_chain_dashboard.pbix
+├── Electronic_Sales_dashboard.pbix
 
 
-│   └── dashboard/[`Supply-Chain.pbix`](Supply-Chain.pbix)
+│   └── dashboard/[`Electronic_Sales_Dashboard.pbix`](Electronic_Sales_Dashboard.pbix)
 
 │
 
@@ -225,7 +225,7 @@ powerbi--dashboard.png / [`Supply_Chain_Dashboard.png`](Supply_Chain_Dashboard.p
 ├── images.png
 
 
-│   └── Images/[`Shipping_Cost_by_Transportation.png`](Shipping_Cost_by_Transportation.png) / [`Revenue_Generated_by_Product.png`](Revenue_Generated_by_Product.png) / [`Shipping_Cost_by_carrier.png`](Shipping_Cost_by_carrier.png) / [`Stock_Level_by_SKU.png`](Stock_Level_by_SKU.png) / [`Defect_Rate_by_Transportation_and_Product_Type.png`](Defect_Rate_by_Transportation_and_Product_Type.png)
+│   └── Images/[`Product_Category_by_Quantity.png`](Product_Category_by_Quantity.png) / [`Regional_Map.png`](Regional_Map.png) / [`Sales_&_Profit_Trends.png`](Sales_&_Profit_Trends.png) / [`Top_&_Buttom_5_Product.png`](Top_&_Buttom_5_Product.png) / [`Total_Sales_&_Profit_Generated_by_Channels.png`](Total_Sales_&_Profit_Generated_by_Channels.png) / [`Weekday_Vs_Weekend_Sales.png`](Weekday_Vs_Weekend_Sales.png)
 
 │
 
