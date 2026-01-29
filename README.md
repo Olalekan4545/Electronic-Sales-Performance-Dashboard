@@ -233,6 +233,14 @@ powerbi Electronic_Sales_dashboard.png / [`Electronic_Dashboard.png`](Electronic
 
 │     └── Insights/ [`Insights.md`](Insights.md) 
 
+│
+
+├──  Measures.md
+
+
+│       └── Measures/ [`Measures.md`](Measures.md) 
+
+
 
 └── README.md / [`README.md`](README.md) 
 
