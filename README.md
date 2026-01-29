@@ -225,7 +225,7 @@ powerbi Electronic_Sales_dashboard.png / [`Electronic_Dashboard.png`](Electronic
 ├── images.png
 
 
-│   └── Images/[`Product_Category_by_Quantity.png`](Product_Category_by_Quantity.png) / [`Regional_Map.png`](Regional_Map.png) / [`Sales_&_Profit_Trends.png`](Sales_&_Profit_Trends.png) / [`Top_&_Buttom_5_Product.png`](Top_&_Buttom_5_Product.png) / [`Total_Sales_&_Profit_Generated_by_Channels.png`](Total_Sales_&_Profit_Generated_by_Channels.png) / [`Weekday_Vs_Weekend_Sales.png`](Weekday_Vs_Weekend_Sales.png) / [`Average_order_by_Product.png`](Average_order_by_Product.png) 
+│   └── Images/[`Product_Category_by_Quantity.png`](Product_Category_by_Quantity.png) / [`Sales_by_Regions.png`](Sales_by_Regions.png) / [`Sales_&_Profit_Trends.png`](Sales_&_Profit_Trends.png) / [`Top_&_Buttom_5_Product.png`](Top_&_Buttom_5_Product.png) / [`Total_Sales_&_Profit_Generated_by_Channels.png`](Total_Sales_&_Profit_Generated_by_Channels.png) / [`Weekday_Vs_Weekend_Sales.png`](Weekday_Vs_Weekend_Sales.png) / [`Average_order_by_Product.png`](Average_order_by_Product.png) 
 
 │
 
